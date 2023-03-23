@@ -1,5 +1,5 @@
 # ur5-robot-motion-planning
-
+C++ implementation of a UR5 motion planning with direct and inverse kinematic.
 
 To launch Gazebo:
 

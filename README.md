@@ -33,3 +33,6 @@ Install python dependences:
 	sudo apt install python3-tqdm
 	pip install seaborn
 	
+![Example image 1](img/img1.png)
+![Example image 3](img/img2.png)
+![Example image 2](img/img3.png)
